@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.title{
+    margin:0 auto;
+    padding: 20px 0 0 0;
+    width: 400px;
+    height: 70px;
+    text-align: center;
+    font-size: large;
+}
+.btns{
+    width: 240px;
+    height: 30px;
+    margin: 0 auto;
+}
+span{
+    display: block;
+    width: 86px;
+    height: 27px;
+    float: left;
+    margin-left: 20px;
+    border: double 2px forestgreen;
+    border-radius: 50px;
+    background-color: greenyellow;
+    text-align: center;
+    font-size: medium;
+}
